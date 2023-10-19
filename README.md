@@ -1,4 +1,4 @@
-# Onboard Automator (Manage Azure identities and governance)
+# Onboard User (Manage Azure identities and governance)
 
 ## Azure AD Setup:
 Set up a new Azure AD instance (if not already present) using the Azure portal.
