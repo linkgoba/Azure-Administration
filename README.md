@@ -21,9 +21,9 @@ Use the Azure AD connector in Logic Apps to automatically create a new user in A
 
 ## Upload file to OneDrive
 
-![Screenshot_20231019-161229](https://github.com/linkgoba/Azure-Administration/assets/129736461/eb7c555c-91fb-4aee-b115-a49e968d77fa)
+![image](https://github.com/linkgoba/Azure-Administration/assets/129736461/37e90edd-af76-4ea2-b6a0-64457f8340ff)
 
-![Screenshot_20231019-161809](https://github.com/linkgoba/Azure-Administration/assets/129736461/9edc02f8-363d-4155-9f00-32e92faa89d3)
+![image](https://github.com/linkgoba/Azure-Administration/assets/129736461/2cba3674-f1c6-4e13-9755-86c9ff5802e3)
 
 
 ## Run Trigger on Logic Apps and check AD user on Entra ID
