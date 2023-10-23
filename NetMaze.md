@@ -2,10 +2,10 @@
 
 Design a hybrid networking environment where on-premises networks connect securely to Azure resources using Azure's networking capabilities, ensuring secure data transition and effective resource access controls.
 
-   1. Azure Virtual Network Setup:
+1. Azure Virtual Network Setup:
         Provision an Azure Virtual Network (VNet) in your chosen region.
     Create multiple subnets within this VNet to segregate resources effectively (e.g., WebApp Subnet, Database Subnet, Admin Subnet)
-    2. On-Premises Network Simulation:
+2. On-Premises Network Simulation:
         For the sake of this project, use another VNet to simulate your on-premises environment. This can be in another Azure region or the same region based on preference.
     3. Secure Connectivity:
         Implement Azure VPN Gateway to create a site-to-site VPN connection between your simulated on-premises environment (VNet) and your main Azure VNet.
