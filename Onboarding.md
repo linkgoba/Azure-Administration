@@ -6,13 +6,12 @@ Set up a new Azure AD instance (if not already present) using the Azure portal.
 
 ## Logic App Workflow Design:
 Design a Logic App workflow triggered by an event (New flat file uploaded to OneDrive) indicating a new employee hire.
-1. Text file uploaded to OneDrive under Documents, initialised variable to capture content of file
 
-   ![image](https://github.com/linkgoba/Azure-Administration/assets/129736461/6d0c7e8d-3a3a-4cf8-894a-f4c350053076)
+1. Text file uploaded to OneDrive under Documents, initialised variable to capture content of file
+![image](https://github.com/linkgoba/Azure-Administration/assets/129736461/6d0c7e8d-3a3a-4cf8-894a-f4c350053076)
 
 2. Input file captured and content split by line
-
-   ![image](https://github.com/linkgoba/Azure-Administration/assets/129736461/42b6679b-cf8a-463d-a4a4-a910b63d627f)
+![image](https://github.com/linkgoba/Azure-Administration/assets/129736461/42b6679b-cf8a-463d-a4a4-a910b63d627f)
 
 ## Azure AD User Creation:
 Use the Azure AD connector in Logic Apps to automatically create a new user in Azure AD based on the trigger event's details.
